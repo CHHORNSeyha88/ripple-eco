@@ -266,5 +266,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Next-url]: https://nextjs.org/
 [SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot/
-[AWS]: https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white
+[AWS]: https://custom-icon-badges.demolab.com/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white
 [AWS.url]: https://aws.amazon.com/
