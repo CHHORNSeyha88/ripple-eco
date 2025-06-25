@@ -105,6 +105,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![SpringBoot][SpringBoot]][SpringBoot-url]
+* [![AWS][AWS]][AWS-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,3 +266,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Next-url]: https://nextjs.org/
 [SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot/
+[AWS]: https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white
+[AWS.url]: https://aws.amazon.com/
