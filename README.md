@@ -242,7 +242,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true
-[Next.js]: https://img.shields.io/badge/next.js-FFFCFB?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-FFFCFB?style=for-the-badge&logo=nextdotjs&logoColor=black
 [Next-url]: https://nextjs.org/
 [SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot/
