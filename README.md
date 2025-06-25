@@ -74,7 +74,7 @@ Ripple-Eco is more than just a platform; it's a movement towards a sustainable a
 
 ### ✨ Features
 
-* **Green Job Hub:** A dedicated space to connect individuals with environmentally focused job opportunities, empowering a workforce committed to sustainability.
+* **Eco-Event:** A dedicated space to connect individuals with environmentally focused job opportunities, empowering a workforce committed to sustainability.
 * **Rights and Advocacy:** We champion the rights of those dedicated to environmental stewardship by ensuring fair access and support for individuals pursuing green careers.
 * **Pollution Alert System:** Real-time monitoring and alerts for air quality to keep communities informed and proactive about local environmental health.
 * **Disaster Preparedness:**
