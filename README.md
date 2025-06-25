@@ -13,8 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true">
-    <img src="https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true" alt="Logo" width="80" height="80">
+ <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ripple-Eco</h3>
@@ -245,7 +245,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
