@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/CHHORNSeyha88/ripple-eco/blob/main/ripple-eco-logo-light.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ripple-Eco</h3>
