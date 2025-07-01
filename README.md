@@ -6,6 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![AWS][AWS]][AWS.url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -91,7 +92,7 @@
 ## Contact
 
 Organizer Website - [Korea Software HRD Center](https://kshrd.com.kh/) - KSRRD
-Conact via Email: [Mail](info.kshrd@gmail.com)
+Conact via Email:   [Mail](info.kshrd@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
