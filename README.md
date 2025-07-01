@@ -117,36 +117,62 @@ Conact via Email:   [Mail](info.kshrd@gmail.com)
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/CHHORNSeyha88/ripple-eco)
 
-Ripple-Eco is more than just a platform; it's a movement towards a sustainable and secure future. Our core mission is to bridge the gap between passionate individuals and meaningful "green jobs," ensuring that everyone has the right and opportunity to contribute to environmental well-being. Beyond career empowerment, we equip communities with vital, real-time alerts about impending environmental disasters, helping people stay ahead of challenges like pollution and extreme weather events.
+Ripple-Eco is more than just a platform; it's a movement towards a sustainable and secure future. Our mission is to bridge the gap between passionate individuals and meaningful green jobs, ensuring everyone has the opportunity to contribute to environmental well-being. Beyond career empowerment, we equip communities with vital, real-time alerts about environmental disasters, helping people stay ahead of challenges like pollution and extreme weather.
 
 <br />
 
-### ✨ Features
+## ✨ Core Features
 
-* **Eco-Event:** A dedicated space to connect individuals with environmentally focused job opportunities, empowering a workforce committed to sustainability.
-* **Rights and Advocacy:** We champion the rights of those dedicated to environmental stewardship by ensuring fair access and support for individuals pursuing green careers.
-* **Pollution Alert System:** Real-time monitoring and alerts for air quality to keep communities informed and proactive about local environmental health.
-* **Disaster Preparedness:**
-    * **Earthquake Alerts:** Instant notifications and guidance to prepare for seismic activities.
-    * **Weather-Related Risk Assessments:** Timely warnings for severe weather, helping individuals and communities mitigate risks and ensure safety.
-* **Community Engagement:** Tools and resources designed to motivate and engage people in collective action for environmental protection.
+### User Roles & Experience
 
-### 🌱 Why Ripple-Eco?
+- **Guests:**  
+  Upon visiting Ripple-Eco, guests are welcomed by a clean, eco-themed homepage. Without logging in, guests can access crucial information such as current air quality levels, upcoming eco-events, discussion forums, and a ‘Take Action’ section—making involvement easy and open to all.
 
-In a world increasingly impacted by environmental challenges, Ripple-Eco stands as a beacon of hope and action. We believe that by empowering individuals with the right opportunities and critical information, we can collectively build more sustainable economies and more resilient communities. We're about creating a ripple effect of positive change – one green job, one timely alert, and one engaged community at a time.
+- **Registered Users & Organizers:**  
+  Register to unlock more interactive features. Organizers are essential in bringing eco-events to life by creating and managing events like tree planting, environmental clean-ups, and seminars. They can specify details like participants, agenda, and planned activities. Organizers can also request donations to support or grow their events and share updates post-event to inspire community participation. Users can join as volunteers or attendees and support events through donations.
 
-### 🎯 Our Vision
+### Eco-Event Platform  
+A dedicated space connecting individuals to environmentally focused job opportunities and eco-events, empowering a workforce committed to sustainability.
 
-To create a global network where every individual has the chance to participate in the green economy and is well-equipped to face environmental threats, fostering a future where humanity and nature thrive in harmony.
+### Rights and Advocacy  
+Championing the rights of environmental stewards, ensuring fair access and support for those pursuing green careers.
 
-### 🤝 Get Involved
+### Pollution Alert System  
+Real-time monitoring and alerts for air quality to keep communities informed and proactive about local environmental health.
 
-We are actively developing Ripple-Eco and welcome contributions and partnerships!
+### Disaster Preparedness  
+- **Earthquake Alerts:** Instant notifications and guidance to prepare for seismic activities.  
+- **Weather-Related Risk Assessments:** Timely warnings for severe weather events, helping communities mitigate risks and stay safe.
 
-* **Job Seekers:** Explore opportunities and find your purpose in the green sector.
-* **Employers:** Connect with a dedicated workforce passionate about sustainability.
-* **Environmental Advocates:** Partner with us to amplify our impact and reach.
-* **Developers:** Fork the repo and submit a pull request to help build the future of environmental action.
+### Community Engagement  
+Discussion forums to share ideas, ask questions, and explore solutions.  
+The “Take Action” section allows users to create surveys, raise awareness, and collect data to drive real change.
+
+### Environmental Monitoring & Alerts  
+Provides real-time updates on air quality and natural disaster alerts. For urgent situations, critical updates are pushed directly to users’ phones via Telegram alerts.
+
+---
+
+## 🌱 Why Ripple-Eco?
+
+In a world facing increasing environmental challenges, Ripple-Eco serves as a beacon of hope and action. By empowering individuals with meaningful opportunities and critical information, we create a ripple effect of positive change—one green job, one timely alert, and one engaged community at a time.
+
+---
+
+## 🎯 Our Vision
+
+To build a global network where every individual can participate in the green economy and is equipped to face environmental threats, fostering a future where humanity and nature thrive in harmony.
+
+---
+
+## 🤝 Get Involved
+
+Ripple-Eco is a growing community dedicated to making a real impact on the environment. Whether you want to volunteer, raise awareness, or contribute your skills, there’s a place for you here!
+
+* **Volunteers:** Join eco-events, participate in clean-ups, tree planting, and community initiatives to create positive change..
+* **Community Advocates:** Help spread the word, organize local actions, and support environmental awareness campaigns.
+* **Organizers:** Create and manage eco-events, coordinate volunteers, and amplify impact in your community..
+* **Developers & Contributors:** Help build and improve Ripple-Eco by forking the repo, submitting pull requests, or suggesting new features.
 
 ### Built With
 
