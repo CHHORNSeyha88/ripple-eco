@@ -1,6 +1,5 @@
 <a id="readme-top">Ripple-Eco</a>
 
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -8,32 +7,28 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui">
     <img src="https://github.com/CHHORNSeyha88/ripple-eco/blob/main/readme.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ripple-Eco</h3>
 
   <p align="center">
-  is a community-driven platform dedicated to environmental sustainability, awareness, and action.
+    A community-driven platform dedicated to environmental sustainability, awareness, and action.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui">View Demo</a>
+    ·
+    <a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/issues/new?labels=bug">Report Bug</a>
+    ·
+    <a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -59,8 +54,7 @@
     <li>
       <a href="#routes-and-implementations">Routes and Implementations</a>
       <ul>
-        <li>
-          <strong>User</strong>
+        <li><strong>User</strong>
           <ul>
             <li>Home</li>
             <li>Eco-Event</li>
@@ -72,8 +66,7 @@
             <li>About Us</li>
           </ul>
         </li>
-        <li>
-          <strong>Organizer</strong>
+        <li><strong>Organizer</strong>
           <ul>
             <li>Overview</li>
             <li>Eco-Event</li>
@@ -94,6 +87,27 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+## Contact
+
+CHHORN Seyha - [@seyha_dev](https://twitter.com/your_username) - seyha@example.com  
+Project Link: [https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui](https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/13-Generation-Basic-Course-Projects/ripple-eco-ui.svg?style=for-the-badge
+[contributors-url]: https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/13-Generation-Basic-Course-Projects/ripple-eco-ui.svg?style=for-the-badge
+[forks-url]: https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/network/members
+[stars-shield]: https://img.shields.io/github/stars/13-Generation-Basic-Course-Projects/ripple-eco-ui.svg?style=for-the-badge
+[stars-url]: https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/stargazers
+[issues-shield]: https://img.shields.io/github/issues/13-Generation-Basic-Course-Projects/ripple-eco-ui.svg?style=for-the-badge
+[issues-url]: https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/issues
+[license-shield]: https://img.shields.io/github/license/13-Generation-Basic-Course-Projects/ripple-eco-ui.svg?style=for-the-badge
+[license-url]: https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/chhornseyha
 
 
 
