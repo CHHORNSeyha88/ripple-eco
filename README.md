@@ -245,11 +245,12 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- LICENSE -->
-## License
+Copyright (c) 2025 [Korea Software HRD Center](https://kshrd.com.kh/)
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+All rights reserved. This project is proprietary and confidential.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+No part of this repository may be copied, distributed, or used without explicit written permission from the copyright holder.
+
 
 
 
