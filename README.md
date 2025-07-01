@@ -248,9 +248,9 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui](https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui)
+Organizer Website - [Korea Software HRD Center](https://kshrd.com.kh/) - KSRRD
+Conact via Email: [Mail](info.kshrd@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
