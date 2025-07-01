@@ -20,7 +20,7 @@
   <h3 align="center">Ripple-Eco</h3>
 
   <p align="center">
-    An initiative dedicated to fostering green careers, ensuring fair opportunities, and providing critical environmental alerts to build resilient communities.
+  is a community-driven platform dedicated to environmental sustainability, awareness, and action.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,12 +37,15 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>📚 Table of Contents</summary>
   <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#about-the-project">About the Project</a></li>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#core-features">Core Features</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>Eco-Event</li>
+        <li>Air Quality & Natural Disaster Alerts</li>
       </ul>
     </li>
     <li>
@@ -52,14 +55,46 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li>
+      <a href="#routes-and-implementations">Routes and Implementations</a>
+      <ul>
+        <li>
+          <strong>User</strong>
+          <ul>
+            <li>Home</li>
+            <li>Eco-Event</li>
+            <li>Take Action</li>
+            <li>Discussion Forums</li>
+            <li>Natural Disaster</li>
+            <li>Leaderboard</li>
+            <li>View Profile</li>
+            <li>About Us</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Organizer</strong>
+          <ul>
+            <li>Overview</li>
+            <li>Eco-Event</li>
+            <li>Create Event</li>
+            <li>Take Action</li>
+            <li>Discussion Forums</li>
+            <li>Natural Disaster</li>
+            <li>Leaderboard</li>
+            <li>View Profile</li>
+            <li>About Us</li>
+            <li>Volunteer</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 
 
 
@@ -185,27 +220,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".  
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project  
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)  
-4. Push to the Branch (`git push origin feature/AmazingFeature`)  
-5. Open a Pull Request  
-
-### Top Contributors
-
-<a href="https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=13-Generation-Basic-Course-Projects/ripple-eco-ui" alt="Top Contributors" />
-</a>
-
-
 
 
 <!-- LICENSE -->
@@ -222,9 +236,10 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui](https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
