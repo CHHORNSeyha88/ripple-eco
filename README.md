@@ -179,10 +179,10 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a  API Key at [ripple-eco-api](https://ripple-api.kshrd.app/api/v1)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/13-Generation-Basic-Course-Projects/ripple-eco-ui
    ```
 3. Install NPM packages
    ```sh
@@ -190,8 +190,26 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = 'https://ripple-api.kshrd.app/api/v1';
    ```
+5. Enter your Enviroment in `.env.local`
+   ```js
+   NEXT_PUBLIC_KNOCK_API_KEY="pk_test_3VlrxBD34QObXES9Wx5d4_iJkpvV_0Gf0y8dONMotrA"
+KNOCK_API_SECRET="sk_test_54taCg965eCJPFKr_OYsPf0AyftLby9kaILDVl8nuIw"
+NEXT_PUBLIC_KNOCK_FEED_CHANNEL_ID="3d88cd3e-a73a-4938-b5c0-bcf2bb8876aa"
+
+NEXT_PUBLIC_GOOGLE_MAP_API="AIzaSyCvsBN7R7KcaCnRnr_5cOXLEa8ZM_TCRIQ"
+NEXTAUTH_SECRET=CGQzW0F7YIFfDrcl3YqYasvhZlvGItcTlc69TSXCeHQ=
+
+GOOGLE_CLIENT_ID="your_google_client_id"
+GOOGLE_CLIENT_SECRET="your_google_client_secret"
+
+# WeBill
+WEBILL_CLIENT_ID = "20d2bd52df45d45954655e9ba35735bb"
+WEBILL_CLIENT_SECRET = "1c5396edc972064b9fe7aa11b90a3a0e"
+   
+   ```
+   
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
    git remote set-url origin github_username/repo_name
