@@ -263,7 +263,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Thanks to these wonderful people:
 
-| [<img src="./chhorn-seyha.jpg" width="100px;"><br><sub><b>CHHORN Seyha</b></sub>](https://github.com/chhorn-seyha) | [<img src="./eang-kimlong.jpg" width="100px;"><br><sub><b>Eang Kimlong</b></sub>](https://github.com/eang-kimlong) | [<img src="./heng-chariya.jpg" width="100px;"><br><sub><b>Heng Chariya</b></sub>](https://github.com/heng-chariya) | [<img src="./mey-soytry.jpg" width="100px;"><br><sub><b>Mey Soytry</b></sub>](https://github.com/mey-soytry) | [<img src="./non-sochetra.jpg" width="100px;"><br><sub><b>Non Sochetra</b></sub>](https://github.com/non-sochetra) |
+| [<img src="./chhorn-seyha.jpg" width="100px;"><br><sub><b>CHHORN Seyha</b></sub>](https://github.com/chhorn-seyha) | 
+[<img src="./eang-kimlong.jpg" width="100px;"><br><sub><b>Eang Kimlong</b></sub>](https://github.com/eang-kimlong) |
+[<img src="./heng-chariya.jpg" width="100px;"><br><sub><b>Heng Chariya</b></sub>](https://github.com/heng-chariya) | 
+[<img src="./mey-soytry.jpg" width="100px;"><br><sub><b>Mey Soytry</b></sub>](https://github.com/mey-soytry) | 
+[<img src="./non-sochetra.jpg" width="100px;"><br><sub><b>Non Sochetra</b></sub>](https://github.com/non-sochetra) |
 | :---: | :---: | :---: | :---: | :---: |
 | Backend Developer | Frontend Developer | Project Coordinator | UI/UX Designer | QA Tester |
 
