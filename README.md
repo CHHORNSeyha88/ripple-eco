@@ -235,11 +235,11 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
     # WeBill
       ```js
-    WEBILL_CLIENT_ID = "20d2bd52df45d45954655e9ba35735bb"
+    WEBILL_CLIENT_ID = "your_client_id"
 
    ```
    ```js
-    WEBILL_CLIENT_SECRET = "1c5396edc972064b9fe7aa11b90a3a0e"
+    WEBILL_CLIENT_SECRET = "your_client_secrect"
 
    ```
 
