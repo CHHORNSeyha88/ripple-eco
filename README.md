@@ -213,19 +213,19 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 5. Enter your Enviroment in `.env.local`
    ```js
-   NEXT_PUBLIC_KNOCK_API_KEY="pk_test_3VlrxBD34QObXES9Wx5d4_iJkpvV_0Gf0y8dONMotrA"
+   NEXT_PUBLIC_KNOCK_API_KEY="your_public_knock_api"
    ```
    ```js
-    KNOCK_API_SECRET="sk_test_54taCg965eCJPFKr_OYsPf0AyftLby9kaILDVl8nuIw"
+    KNOCK_API_SECRET="knock_api_secret"
    ```
     ```js
-   NEXT_PUBLIC_KNOCK_FEED_CHANNEL_ID="3d88cd3e-a73a-4938-b5c0-bcf2bb8876aa"
+   NEXT_PUBLIC_KNOCK_FEED_CHANNEL_ID="your_kock_feed_channel_id"
    ```
      ```js
-    NEXT_PUBLIC_GOOGLE_MAP_API="AIzaSyCvsBN7R7KcaCnRnr_5cOXLEa8ZM_TCRIQ"
+    NEXT_PUBLIC_GOOGLE_MAP_API="goolge_map_api"
    ```
     ```js
-   NEXTAUTH_SECRET=CGQzW0F7YIFfDrcl3YqYasvhZlvGItcTlc69TSXCeHQ=
+   NEXTAUTH_SECRET="your_auth_secrect"
    ```
    ```js
     GOOGLE_CLIENT_ID="your_google_client_id"
